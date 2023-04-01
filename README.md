@@ -39,7 +39,7 @@ sudo chmod 740 server-custom-report.sh
 ```
 Secondly, run the file with the arguments:
 ```sh
-./server-auto-report.sh arg1 arg2
+./server-custom-report.sh arg1 arg2
 ```
 Here, `arg1` is your number of last logins you want to display such as `10`.
 
