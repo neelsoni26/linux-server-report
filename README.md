@@ -17,9 +17,10 @@ If you run the `server-auto-report` file it will auto display the data with
 - Top 5 last logins
 - Top 5 CPU utilization
 
-If you want to get custom number of data you need to run `server-custom-report`
+If you want to get custom number of data you need to run `server-custom-report`.
 
-To run `server-auto-report`:
+
+### To run `server-auto-report`:
 
 First update the permission to execute the file:
 ```sh
@@ -30,7 +31,7 @@ Secondly, run the file:
 ./server-auto-report.sh
 ```
 
-To run `server-custom-report`:
+### To run `server-custom-report`:
 
 First update the permission to execute the file:
 ```sh
